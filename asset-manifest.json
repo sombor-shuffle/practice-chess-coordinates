@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/practice-chess-coordinates/static/css/main.a4fb1715.css",
+    "main.js": "/practice-chess-coordinates/static/js/main.2f8f048a.js",
+    "static/js/787.35975576.chunk.js": "/practice-chess-coordinates/static/js/787.35975576.chunk.js",
+    "index.html": "/practice-chess-coordinates/index.html",
+    "main.a4fb1715.css.map": "/practice-chess-coordinates/static/css/main.a4fb1715.css.map",
+    "main.2f8f048a.js.map": "/practice-chess-coordinates/static/js/main.2f8f048a.js.map",
+    "787.35975576.chunk.js.map": "/practice-chess-coordinates/static/js/787.35975576.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4fb1715.css",
+    "static/js/main.2f8f048a.js"
+  ]
+}
